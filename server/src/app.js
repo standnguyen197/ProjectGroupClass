@@ -45,9 +45,6 @@ var options = {
         }
             
         
-    })
-    .catch(function (err) {
-        console.log(err);
     });
 });
 

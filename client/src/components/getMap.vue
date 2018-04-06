@@ -107,8 +107,6 @@ export default {
                 _this.modal3 = true;
                
             }
-        }).catch((err) => {
-            console.log(err);
         });
         
       }
